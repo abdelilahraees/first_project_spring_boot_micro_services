@@ -40,7 +40,7 @@ A scalable e-commerce platform built with microservices architecture.
 ### Installation
 
 # Clone the project
-git clone https://github.com/your-repo/microservices-project.git
+git clone https://github.com/abdelilahraees/first_project_spring_boot_micro_services.git
 
 # Build all services
 mvn clean install
