@@ -25,7 +25,7 @@ A scalable e-commerce platform built with microservices architecture.
 - **Infrastructure**: 
   - Eureka (Service Discovery), Config Server
 - **Database**: 
-  - MySQL (Relational), MongoDB (NoSQL) - *per service*
+  - MySQL (Relational)
 - **Resilience**:
   - Circuit Breaker (Resilience4j)
 
