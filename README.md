@@ -1,7 +1,7 @@
 # Microservices Architecture Project
 
 ![Java](https://img.shields.io/badge/Java-21-blue)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1-green)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2024-brightgreen)
 
 A scalable e-commerce platform built with microservices architecture.
@@ -19,7 +19,7 @@ A scalable e-commerce platform built with microservices architecture.
 ## 🛠️ Technologies
 
 - **Core**: 
-  - Java 21, Spring Boot 3.1, Spring Cloud 2024
+  - Java 21, Spring Boot 3.4, Spring Cloud 2024
 - **Communication**: 
   - OpenFeign (REST), Spring Cloud Gateway (Routing)
 - **Infrastructure**: 
@@ -35,7 +35,6 @@ A scalable e-commerce platform built with microservices architecture.
 - JDK 21+
 - Maven 3.9+
 - MySQL 8.0+
-- MongoDB 6.0+
 
 ### Installation
 # Clone the project
