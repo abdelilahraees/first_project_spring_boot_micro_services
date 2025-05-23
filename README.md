@@ -1,13 +1,13 @@
 # Microservices Architecture Project
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1%2B-green)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2022%2B-brightgreen)
+![Java](https://img.shields.io/badge/Java-21%2B-blue)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2B-green)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%2B-brightgreen)
 ![Docker](https://img.shields.io/badge/Docker-✓-important)
 
 A scalable e-commerce platform built with microservices architecture.
 
-## 📦 Services Overview
+## Services Overview
 
 | Service              | Description                          | Port  |
 |----------------------|--------------------------------------|-------|
@@ -20,7 +20,7 @@ A scalable e-commerce platform built with microservices architecture.
 ##  Technologies
 
 - Core: 
-  - Java 17, Spring Boot 3.1, Spring Cloud 2022+
+  - Java 21, Spring Boot , Spring Cloud 
 - Communication: 
   - OpenFeign (REST), Spring Cloud Gateway (Routing)
 - Infrastructure: 
